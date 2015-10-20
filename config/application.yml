@@ -2,7 +2,8 @@
 #
 # pusher_app_id: "2954"
 # pusher_key: 7381a978f7dd7f9a1117
-# pusher_secret: abdc3b896a0ffb85d373
+# pusher_secret: 
+#
 stripe_api_key: sk_test_cxggk5NsV5T2VKEToiHCRjOY
 stripe_publishable_key: pk_test_8fciVTm14BbOUj4GMxOBMFQs
 #
