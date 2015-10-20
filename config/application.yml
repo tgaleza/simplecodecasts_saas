@@ -8,6 +8,6 @@
 stripe_api_key: sk_test_Peb1ddpoHUUmlvT2iAryz6sM
 stripe_publishable_key: pk_test_MWSi0w3SJ6nGPuG2gfh8iCOU
 #
-# production:
-   stripe_api_key: sk_test_Peb1ddpoHUUmlvT2iAryz6sM
-   stripe_publishable_key: pk_test_MWSi0w3SJ6nGPuG2gfh8iCOU
+production:
+  stripe_api_key: sk_test_Peb1ddpoHUUmlvT2iAryz6sM
+  stripe_publishable_key: pk_test_MWSi0w3SJ6nGPuG2gfh8iCOU
