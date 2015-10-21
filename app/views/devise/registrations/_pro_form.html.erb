@@ -28,7 +28,7 @@
         
         <div class="form-group">
             <%= label_tag :card_code, "Security Code on Card (CVV)" %>
-            <%= text_field_tag :card_code, nil, name: nil, class: "form_control" %>
+            <%= text_field_tag :card_code, nil, name: nil, class: "form-control" %>
         </div>
         
         <div class="form-group">
@@ -38,6 +38,6 @@
         </div>
       
         <div class="actions form-group">
-          <%= f.submit "Sign up", class: 'btn btn-success' id: 'form-submit-btn' %>
+          <%= f.submit "Sign up", class: 'btn btn-success', id: 'form-submit-btn' %>
         </div>
 <% end %>
